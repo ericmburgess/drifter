@@ -1,0 +1,7 @@
+I hereby release Drifter into the Public Domain. This means I waive 
+all rights to the code. You may do anything whatsoever with it, 
+without asking for my permission. You may distribute or modify it, or 
+derive your own game from it.
+
+If you would like to credit me, you are welcome to do so.
+
